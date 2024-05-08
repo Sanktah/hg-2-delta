@@ -6,4 +6,4 @@
 
 [Cesar](https://github.com/ceop0402/hg_2_charlie) -> Charlie
 
-[Willy](https://github.com/Yoshikoich/hg_2_alfa) -> Delta
+[Willy](https://github.com/Sanktah/hg-2-delta) -> Delta
